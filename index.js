@@ -114,7 +114,7 @@ const client = new Client({
 client.once('ready', () => {
   client.user.setPresence({
     activities: [{
-      name: 'Molesting Aahrif',
+      name: '/trucel',
       type: ActivityType.Streaming,
       url: config.streamUrl,
     }],
