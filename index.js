@@ -29,7 +29,7 @@ const config = {
   windowMs: voteWindowMinutes * 60_000,
   port: Number(process.env.PORT ?? 3000),
   managerRoleId: '1540417905278197840',
-  streamUrl: 'https://www.youtube.com/watch?v=AJmaVPfyudQ',
+  streamUrl: 'https://www.youtube.com/watch?v=SIY9w22aXZ4',
   emojis: {
     up: '1538668842882961488',
     down: '1538665541097488506',
